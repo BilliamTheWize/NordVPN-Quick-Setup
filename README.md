@@ -39,13 +39,13 @@
 
 > I originaly made this set of Bash for personal use as well as for practice programming in Bash. I have installed and set up a lot of Linux PCs and VMs and it got tedious having to copy several lines of code several times, and having to wait for it to install and to make sure that I remember to not only add the Nordvpn group but to also add my user to it, and then having to reboot the system, Log back in, and configure my VPN prefrences. So I made a couple of Bash scripts to semiautomate the process! 
 
-# Requirements: 
+## Requirements: 
 1. A debian Based Linux OS 
 2. Sudo/Root/Admin access
 3. A NordVPN Subscription
 
 
-# How to Run the Script
+## How to Run the Script
 1. Install the .Zip File from the release page 
 
 2. Extract the files to your " /home/your-user-here/NordVPN_Quick_Installer/ " folder
