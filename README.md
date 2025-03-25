@@ -71,4 +71,5 @@
 
 ## Dev-Notes:
 - I plan on testing this  across different distributions of Linux, So far I have only tested this on Linux Mint.
-- I also wanna later modify the script to accept additional inputs after "on" or "off" such as "nordvpn set autoconnect on canada" so the VPN can be configured even further.
+- later I will modify the script to accept additional inputs after "on" or "off" such as "nordvpn set autoconnect on canada" so the VPN can be configured even further.
+- Another feature I want to implement is the ability to download this from a single line of code in your terminal using git
