@@ -36,7 +36,8 @@
 
    - VPN Provided By *NordVPN* - [https://nordvpn.com/](https://)
 
-   - DNS Provided By *Cloudflare* 
+   - DNS Provided By *Cloudflare* - [https://www.cloudflare.com/](https://)
+     
 > I originally made this set of Bash for personal use as well as for practice programming in Bash. I have installed and set up a lot of Linux PCs and VMs and it got tedious having to copy several lines of code several times, and having to wait for it to install and to make sure that I remember to not only add the Nordvpn group but to also add my user to it, and then having to reboot the system, Log back in, and configure my VPN preferences. So I made a couple of Bash scripts to semi-automate the process! 
 
 ## Requirements: 
